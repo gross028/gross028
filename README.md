@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá! Seja bem vindo ao meu perfil 😄
 
 
 **gross028/gross028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
