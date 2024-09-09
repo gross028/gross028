@@ -2,7 +2,7 @@
 
 Meu nome é Emanuella Gross.
 
-- Estou estudando no Alura;
+- Estou estudando no [Alura](https://www.alura.com.br);
 - Estou me desenvolvendo na linguagem JavaScript;
 - Utilizo este espaço para organização e divulgação dos meus projetos desenvolvidos.
 
