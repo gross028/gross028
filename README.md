@@ -9,3 +9,6 @@ Meu nome é Emanuella Gross.
 ## Voçê pode entrar em contato comigo 📬
 
 gross.emanuella@escola.pr.gov.br
+
+
+![](https://media.tenor.com/uSJaiEbE6eIAAAAM/harry-potter.gif)
